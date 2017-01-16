@@ -1,0 +1,31 @@
+body { padding-top: 50px; padding-right:50px; }
+
+.text {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #003;
+}
+
+.name {
+	font-family: Courier New, Courier, monospace;
+	font-size:36px;
+	color: #009;
+	margin-top: 0px;
+}
+    .contact {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #00F;
+}
+    .topic {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 24px;
+	margin-bottom: 2px;
+	color: #00F;
+}
+    .introduction {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #006;
+}
+
